@@ -19,7 +19,7 @@ The project extracts patent search formulas and technical classifications throug
 
 &nbsp; Therefore, the project conducted patent analysis using natural language processing so that individual patent applicants could do patent analysis without having to resort to expensive 'patent offices'.
 
-[Project Description (detail)](https://star7sss.tistory.com/344) (My Blog)
+=> [Project Description (detail)](https://star7sss.tistory.com/344) (My Blog)
 
 ## Getting Started
 **click `Code - Download ZIP` and  unzip it**
